@@ -17,6 +17,24 @@ function calculateTip() {
     document.getElementById("each").style.display = "block";
   }
 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   //Calculate tip
   var total = (billAmt * serviceQual) / numOfPeople;
   //round to two decimal places
